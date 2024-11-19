@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NikhilSahu
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python & ML
+- 🌱 I’m currently a Data Analyst
 - 💞️ I’m looking to collaborate on Business Analyst Projects
 - 📫 How to reach me mail
 
